@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "postcss": "^8.4.4"
+    "postcss": "^8.4.4",
+    "vue-notion": "^1.4.3"
   }
 }
